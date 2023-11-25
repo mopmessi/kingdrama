@@ -54,7 +54,7 @@
 "sbembed4": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(sbembed4)\\.[^\\/,^\\.]{2,}\\/.+",
 "ninjastream": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(ninjastream)\\.[^\\/,^\\.]{2,}\\/.+",
 "vidlox": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vidlox)\\.[^\\/,^\\.]{2,}\\/.+",
-"mixdrop": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(reviewrate|reviewtech)\\.[^\\/,^\\.]{2,}\\/.+",
+"mixdrop": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(reviewrate|reviewtech|mdy48tn97)\\.[^\\/,^\\.]{2,}\\/.+",
 "hxfile": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(hxfile)\\.[^\\/,^\\.]{2,}\\/.+",
 "govid": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?()\\.[^\\/,^\\.]{2,}\\/.+",
 "gvid": "https?:\\/\\/(www\\.)?(gvid)\\.[^\\/,^\\.]{2,}\\/.+",
