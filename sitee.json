@@ -102,6 +102,11 @@
 
 "oldrand2":"",
 "newrand2":"",
-
+  
+"uppom": "up2bom",
+"mixdrop2": "mdy48tn97",
 "bitTube": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(bittube\\.video\\/videos)\\/(watch|embed)\\/.+"
+
+
+  
 }
